@@ -13,6 +13,7 @@ public class GitTest {
         System.out.println("hello git4");
         System.out.println("hello git5 by branch01 update");
         System.out.println("hello git6 by master update update");
+        System.out.println("hello git6 by branch01 update update");
 
     }
 }
