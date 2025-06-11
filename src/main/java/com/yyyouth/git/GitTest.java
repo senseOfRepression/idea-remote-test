@@ -15,6 +15,8 @@ public class GitTest {
         System.out.println("hello git6 by master update update");
         System.out.println("hello git6 by branch01 update update");
         System.out.println("push to github test...");
+        System.out.println("idea push to github test...");
+
 
     }
 }
